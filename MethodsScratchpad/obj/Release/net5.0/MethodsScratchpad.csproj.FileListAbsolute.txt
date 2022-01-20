@@ -1,0 +1,16 @@
+C:\Users\erich\source\repos\MethodsScratchpad\MethodsScratchpad\bin\Release\net5.0\MethodsScratchpad.exe
+C:\Users\erich\source\repos\MethodsScratchpad\MethodsScratchpad\bin\Release\net5.0\MethodsScratchpad.deps.json
+C:\Users\erich\source\repos\MethodsScratchpad\MethodsScratchpad\bin\Release\net5.0\MethodsScratchpad.runtimeconfig.json
+C:\Users\erich\source\repos\MethodsScratchpad\MethodsScratchpad\bin\Release\net5.0\MethodsScratchpad.runtimeconfig.dev.json
+C:\Users\erich\source\repos\MethodsScratchpad\MethodsScratchpad\bin\Release\net5.0\MethodsScratchpad.dll
+C:\Users\erich\source\repos\MethodsScratchpad\MethodsScratchpad\bin\Release\net5.0\ref\MethodsScratchpad.dll
+C:\Users\erich\source\repos\MethodsScratchpad\MethodsScratchpad\bin\Release\net5.0\MethodsScratchpad.pdb
+C:\Users\erich\source\repos\MethodsScratchpad\MethodsScratchpad\obj\Release\net5.0\MethodsScratchpad.csproj.AssemblyReference.cache
+C:\Users\erich\source\repos\MethodsScratchpad\MethodsScratchpad\obj\Release\net5.0\MethodsScratchpad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erich\source\repos\MethodsScratchpad\MethodsScratchpad\obj\Release\net5.0\MethodsScratchpad.AssemblyInfoInputs.cache
+C:\Users\erich\source\repos\MethodsScratchpad\MethodsScratchpad\obj\Release\net5.0\MethodsScratchpad.AssemblyInfo.cs
+C:\Users\erich\source\repos\MethodsScratchpad\MethodsScratchpad\obj\Release\net5.0\MethodsScratchpad.csproj.CoreCompileInputs.cache
+C:\Users\erich\source\repos\MethodsScratchpad\MethodsScratchpad\obj\Release\net5.0\MethodsScratchpad.dll
+C:\Users\erich\source\repos\MethodsScratchpad\MethodsScratchpad\obj\Release\net5.0\ref\MethodsScratchpad.dll
+C:\Users\erich\source\repos\MethodsScratchpad\MethodsScratchpad\obj\Release\net5.0\MethodsScratchpad.pdb
+C:\Users\erich\source\repos\MethodsScratchpad\MethodsScratchpad\obj\Release\net5.0\MethodsScratchpad.genruntimeconfig.cache
